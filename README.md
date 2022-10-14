@@ -7,7 +7,7 @@ This is a public repository for some tests demonstration.
   
     isLeapYear - is used to check how many days in a year and in february.
     
-    getNumberOfDaysInMonth - distiguish how many days in a given month.
+    getNumberOfDaysInMonth - to distiguish how many days in a given month.
     
     getDaysFrom1890 - calculates number of days between given date and 01.01.1890, it simplifies the code compare to calculation of days between two given days directly.
 
